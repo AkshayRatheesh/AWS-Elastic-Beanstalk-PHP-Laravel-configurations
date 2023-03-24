@@ -1,4 +1,7 @@
 # elastic-beanstalk-samples
+
+# sample application MANAGER APP
+
 This repository complements the AWS Elastic Beanstalk documentation.
 It contains examples of [configuration files (.ebextensions)](https://github.com/awslabs/elastic-beanstalk-samples/tree/master/configuration-files) and [AWS CloudFormation templates](https://github.com/awslabs/elastic-beanstalk-samples/tree/master/configuration-files) that you can use to improve your Elastic Beanstalk applications.
 
